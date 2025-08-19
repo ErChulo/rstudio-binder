@@ -1,6 +1,8 @@
 # rstudio-binder
 Para usar RStudio via mybinder.org
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ErChulo/rstudio-binder/main?urlpath=rstudio)
+
 ## Archivos en este repositorio
 - `Dockerfile` — imagen base RStudio con control total del sistema y ejecución de `install.R`.
 - `runtime.txt` — versión de R fijada (opcional cuando hay Dockerfile).
